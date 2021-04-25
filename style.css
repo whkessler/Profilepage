@@ -1,0 +1,242 @@
+.nav{
+    height: 50px;
+    width: 950px;
+    background-color:black;
+    display: flex;
+
+}
+.nav-title{
+    color: white;
+    margin:5px 25px 10px 125px;
+}
+.nav-links{
+    display: flex;
+    list-style-type:none;
+    align-items: flex-end;
+
+}
+ul li{
+    margin-left: 20px;
+    position: relative;
+
+}
+ul li a {
+    color: white;
+    text-decoration-line: none;
+}
+.btn{
+    background-color: lightskyblue;
+    color: white;
+    box-shadow: black 3px 3px;
+    margin-left: 170px;
+
+
+}.container{
+    height: 280px;
+    width: 425px;
+    border: gray solid;
+    position: fixed;
+    top: 80px;
+    left: 135px;
+
+}
+.box1 img{
+    height: 70px;
+    width: 70px;
+    position: fixed;
+    top: 110px;
+    left: 165px;
+
+}
+.box1{
+    height: 60px;
+    width: 425px;
+    background-color: steelblue;
+}
+.box2 img{
+    height: 15px;
+    width: 10px;
+}
+.box2 h2{
+    position: fixed;
+    left: 160px;
+    top: 175px;
+
+}
+.box2 h3{
+    position: fixed;
+    left:185px;
+    top: 210px;
+}
+.marker{
+    position: fixed;
+    left: 160px;
+    top: 233px;
+}
+.line1{
+    position: fixed;
+    left: 160px;
+    top: 255px;
+
+}
+.line2{
+    position: fixed;
+    left: 160px;
+    top: 275px;
+}
+.line3{
+    position: fixed;
+    left: 180px;
+    top: 325px;
+}
+.gear{
+    position: fixed;
+    top: 325px;
+    left: 160px;
+}
+.container2{
+    height: 180px;
+    width: 425px;
+    border: gray solid;
+    position: fixed;
+    top: 400px;
+    left: 135px;
+}
+.edubox1{
+    height: 40px;
+    width: 425px;
+    background-color: rgb(73, 68, 68);
+    color: white;
+    position: fixed;
+    top: auto;
+}
+.word{
+    margin: 8px 10px 5px 15px;
+}
+.edubox2{
+    position: fixed;
+    top: 450px;
+    left: 160px;
+}
+.container3{
+    height: 150px;
+    width: 230px;
+    border: gray solid;
+    position: fixed;
+    top: 80px;
+    left: 600px;
+
+}
+.requests{
+    height: 40px;
+    width: 230px;
+    background-color: rgb(73, 68, 68);
+    position: fixed;
+    top: auto;
+}
+.num{
+    color:black;
+    background-color: lightgrey;
+    height: 20px;
+    width: 20px;
+    margin: 0%;
+    position: fixed;
+    top: 92px;
+    left: 615px;
+    border-radius: 50%;
+}
+.name{
+    color: white;
+    position: fixed;
+    top: 75px;
+    left: 640px;
+}
+.frame{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 110px;
+    left: 560px;
+}
+.frametop{
+    display: flex;
+    align-items: center;
+}
+.frametop li{
+    list-style-type: none;  
+}
+.frametop img{
+    height: 30px;
+    width: 30px;
+}
+.frame2{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 150px;
+    left: 560px;
+}
+.framebottom{
+    display: flex;
+    align-items: center;
+}
+.framebottom li{
+    list-style-type: none;
+}
+.framebottom img{
+    height: 30px;
+    width: 30px;
+}
+
+.container4{
+    height: 280px;
+    width: 230px;
+    border: gray solid;
+    position: fixed;
+    top: 280px;
+    left: 600px;
+}
+.connectbox{
+    position: fixed;
+    top: 315px;
+    left: 560px;
+    
+}
+.connectbox img{
+    height: 30px;
+    width: 30px;
+    padding-bottom: 8px;
+
+}
+.connectbox li{
+    list-style: none;
+    
+}
+.names{
+    position: fixed;
+    top: 305px;
+    left: 630px;
+}
+.tag{
+    color: black;
+    background-color: lightgrey;
+    height: 25px;
+    width: 45px;
+    margin: 0%;
+    position: fixed;
+    top: 292px;
+    left: 615px;
+    border-radius: 50%;
+}
+
+.yourc{
+    color: white;
+    position: fixed;
+    top: 275px;
+    left: 680px;
+}
+.viewmore{
+    position: fixed;
+    top: 530px;
+    left: 615px;
+}
